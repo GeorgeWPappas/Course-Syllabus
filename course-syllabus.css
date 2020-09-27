@@ -7,6 +7,7 @@ body {
   h1 {
     text-align: center;
     font-size: 40px;
+    font-style: italic;
   }
   
   h2 {
@@ -29,6 +30,12 @@ body {
     text-align: left;
     line-height: 20px;
     padding-left: 17px;
+  }
+
+  pre {
+    font-family: "Arial", Arial, Sans-serif;
+    text-align: left;
+    line-height: 20px;
   }
 
   p2 {
@@ -86,41 +93,6 @@ body {
     line-height: 20px;
     padding: 10px 70px 10px 70px;
   }
-
-  /*
-  ul {
-    font-family: "Arial", Arial, Sans-serif;
-    letter-spacing: 1px;
-    line-height: 10px;
-    list-style-type: none;
-    margin: 0px;
-    padding: 0;
-    overflow: hidden;
-    border: 1px solid #B8BAB2;
-    background-color: #333;
-  }
-  
-  li {
-    float: left;
-    border-right: 1px solid #bbb;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color: #111;
-  }
-  
-  li:last-child {
-    border-right: none;
-  }
-  */
   
   table{
     border-spacing: 0px;

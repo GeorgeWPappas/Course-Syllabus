@@ -54,11 +54,11 @@ body {
   }
 
   th {
-    background-color: grey;
-    color: rgb(255, 255, 255);  /* Color for letters */
+    background-color: rgb(191, 191, 191);
+    color: rgb(0, 0, 0);  /* Color for letters */
   }
     
-  th, td {
+  td {
     border-bottom: 1px solid #B8BAB2;
     padding: 15px;
     text-align: center;
